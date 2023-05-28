@@ -142,6 +142,10 @@
 
     <!-- Set by modules to create a custom jira report -->
     <statistics.jira.component />
+
+    <!-- Sonarcloud -->
+    <sonar.organization>7admiral23</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
   </properties>
 
   <dependencyManagement>
